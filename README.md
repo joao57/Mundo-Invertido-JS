@@ -83,15 +83,7 @@ Uma jornada para quem não tem medo do desconhecido. O caminho para o Mundo Inve
 - 
 ## 🌎 Minhas redes sociais
 <p>
-    <img align=left margin=10 width=80 src="https://avatars.githubusercontent.com/u/16018277?v=4"/>
-    <p>&nbsp&nbsp&nbspDiogo Medeiros Mainardes<br>
-    &nbsp&nbsp&nbsp<a href="http://instagram.com/diogomainardes.dev">Instagram</a>&nbsp;|&nbsp;
-      <a href="https://github.com/joao57">GitHub</a>&nbsp;|&nbsp;<a href="https://www.linkedin.com/in/joao57/">LinkedIn</a>&nbsp;|&nbsp;<a href="https://www.twitch.tv/dimmbr">Twitch</a></p>
-</p>
-<br/><br/>
-<p>
-
-    <p>&nbsp&nbsp&nbspJoão Paulo Veiga <br>
+João Paulo Veiga <br>
     &nbsp&nbsp&nbsp<a href="https://github.com/joao57">GitHub</a>&nbsp;|&nbsp;
     <a href="https://www.linkedin.com/in/joao57/">LinkedIn</a>
     </p>
